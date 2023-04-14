@@ -1,0 +1,17 @@
+See file:///C:/Users/manya/Downloads/FRC-6800-2023-code-everybot-NOMotionM/FRC-6800-2023-code-everybot-NOMotionM/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling Robot.cpp successful.
+C:\Users\manya\Downloads\FRC-6800-2023-code-everybot-NOMotionM\FRC-6800-2023-code-everybot-NOMotionM\src\main\cpp\Robot.cpp: In member function 'virtual void Robot::TeleopPeriodic()':
+C:\Users\manya\Downloads\FRC-6800-2023-code-everybot-NOMotionM\FRC-6800-2023-code-everybot-NOMotionM\src\main\cpp\Robot.cpp:142:12: warning: unused variable 'sensLeft' [-Wunused-variable]
+  142 |     double sensLeft = frc::SmartDashboard::GetNumber("Left Motor Limit", 1); //65%? 0.65
+      |            ^~~~~~~~
+C:\Users\manya\Downloads\FRC-6800-2023-code-everybot-NOMotionM\FRC-6800-2023-code-everybot-NOMotionM\src\main\cpp\Robot.cpp:143:12: warning: unused variable 'sensRight' [-Wunused-variable]
+  143 |     double sensRight = frc::SmartDashboard::GetNumber("Right Motor Limit", 1);
+      |            ^~~~~~~~~
+C:\Users\manya\Downloads\FRC-6800-2023-code-everybot-NOMotionM\FRC-6800-2023-code-everybot-NOMotionM\src\main\cpp\Robot.cpp:166:12: warning: unused variable 'SQRTspeed' [-Wunused-variable]
+  166 |     double SQRTspeed = sqrt(speed);
+      |            ^~~~~~~~~
+C:\Users\manya\Downloads\FRC-6800-2023-code-everybot-NOMotionM\FRC-6800-2023-code-everybot-NOMotionM\src\main\cpp\Robot.cpp:167:12: warning: unused variable 'SQRTrotation' [-Wunused-variable]
+  167 |     double SQRTrotation = sqrt(rotation);
+      |            ^~~~~~~~~~~~
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///C:/Users/manya/Downloads/FRC-6800-2023-code-everybot-NOMotionM/FRC-6800-2023-code-everybot-NOMotionM/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.

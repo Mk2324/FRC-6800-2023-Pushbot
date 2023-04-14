@@ -1,0 +1,423 @@
+[
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "debug",
+    "cppPath": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\1b8bdf6ea1dc11a8b6348471cc492b82\\transformed\\wpilibNewCommands-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\41fd05a97c4cfaf3b678b696d12e2945\\transformed\\REVLib-cpp-2023.1.2-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2acbb074a4163729453e72a55376fd88\\transformed\\REVLib-driver-2023.1.2-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\6bfb9bf2ca7a0557ed1b8f0cf0396536\\transformed\\navx-frc-cpp-2023.0.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\7fb5174f6d31717faeedad2992b9bac6\\transformed\\wpilibc-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\ab85d30c2c70dbbb389a59f5f59ca841\\transformed\\ntcore-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d70fa49de9720a391a3e6808ab99c0c9\\transformed\\hal-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2c304b5a420d50b164eae0922f184457\\transformed\\wpimath-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a7bc9ad056f56a1aaca562316a5f5cc1\\transformed\\wpinet-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\5a416fffbf08810afdc336738070be95\\transformed\\wpiutil-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\355e8e3b3d3893789cfdc671987ca2ff\\transformed\\netcomm-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\b64b4185a5c2ec4ab51c31afaec4d6a8\\transformed\\chipobject-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\c94b174a8ff525c97be46d6f5269ca89\\transformed\\visa-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a82713054d18d1cfecbbf58d9766f79d\\transformed\\cameraserver-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\70a9de2f3ecb557cdabaa085f1d134f8\\transformed\\cscore-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d066ef66f29b4b33df0070a1f192d74a\\transformed\\apriltag-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\8ad7f433c3220a938f5e739b547fd881\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+      "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\include\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\ab721b5d939a34ca4b148e880f7f2467\\transformed\\wpilibNewCommands-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\93a0b2c734996e0a65925ee200e0017e\\transformed\\navx-frc-cpp-2023.0.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\759478416c533deb7f69f1acedb46945\\transformed\\wpilibc-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\fba89f9d7ba8ac20b80d6889c8e56c92\\transformed\\ntcore-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\3fb996f6012495621078562b2fde3be1\\transformed\\hal-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\138a9f1c357699cd0bc5ab85d020c735\\transformed\\wpimath-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\fd9668a25ca06311ff86fdb08489b7d4\\transformed\\wpinet-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\8a822d61d079a1acf6afb5d663be4653\\transformed\\wpiutil-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\e0501ac188f946652d6fb02181aa106a\\transformed\\cameraserver-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\698c9c0bd553743e141c8b55cc4b5081\\transformed\\cscore-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\0400bb83c2212ebca3b1740fceea8bf5\\transformed\\apriltag-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2bf1f4eb73f3cd75916d855ead91d809\\transformed\\opencv-cpp-4.6.0-4-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\ab721b5d939a34ca4b148e880f7f2467\\transformed\\wpilibNewCommands-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\93a0b2c734996e0a65925ee200e0017e\\transformed\\navx-frc-cpp-2023.0.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\759478416c533deb7f69f1acedb46945\\transformed\\wpilibc-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\fba89f9d7ba8ac20b80d6889c8e56c92\\transformed\\ntcore-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\3fb996f6012495621078562b2fde3be1\\transformed\\hal-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\138a9f1c357699cd0bc5ab85d020c735\\transformed\\wpimath-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\fd9668a25ca06311ff86fdb08489b7d4\\transformed\\wpinet-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\8a822d61d079a1acf6afb5d663be4653\\transformed\\wpiutil-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\e0501ac188f946652d6fb02181aa106a\\transformed\\cameraserver-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\698c9c0bd553743e141c8b55cc4b5081\\transformed\\cscore-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\0400bb83c2212ebca3b1740fceea8bf5\\transformed\\apriltag-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2bf1f4eb73f3cd75916d855ead91d809\\transformed\\opencv-cpp-4.6.0-4-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\1b8bdf6ea1dc11a8b6348471cc492b82\\transformed\\wpilibNewCommands-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\41fd05a97c4cfaf3b678b696d12e2945\\transformed\\REVLib-cpp-2023.1.2-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2acbb074a4163729453e72a55376fd88\\transformed\\REVLib-driver-2023.1.2-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\6bfb9bf2ca7a0557ed1b8f0cf0396536\\transformed\\navx-frc-cpp-2023.0.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\7fb5174f6d31717faeedad2992b9bac6\\transformed\\wpilibc-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\ab85d30c2c70dbbb389a59f5f59ca841\\transformed\\ntcore-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d70fa49de9720a391a3e6808ab99c0c9\\transformed\\hal-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2c304b5a420d50b164eae0922f184457\\transformed\\wpimath-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a7bc9ad056f56a1aaca562316a5f5cc1\\transformed\\wpinet-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\5a416fffbf08810afdc336738070be95\\transformed\\wpiutil-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\355e8e3b3d3893789cfdc671987ca2ff\\transformed\\netcomm-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\b64b4185a5c2ec4ab51c31afaec4d6a8\\transformed\\chipobject-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\c94b174a8ff525c97be46d6f5269ca89\\transformed\\visa-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a82713054d18d1cfecbbf58d9766f79d\\transformed\\cameraserver-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\70a9de2f3ecb557cdabaa085f1d134f8\\transformed\\cscore-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d066ef66f29b4b33df0070a1f192d74a\\transformed\\apriltag-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\8ad7f433c3220a938f5e739b547fd881\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+      "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\include\\"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++20",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-pthread",
+              "-Wno-error=deprecated-enum-enum-conversion",
+              "-Og",
+              "-g"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\1b8bdf6ea1dc11a8b6348471cc492b82\\transformed\\wpilibNewCommands-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\41fd05a97c4cfaf3b678b696d12e2945\\transformed\\REVLib-cpp-2023.1.2-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2acbb074a4163729453e72a55376fd88\\transformed\\REVLib-driver-2023.1.2-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\6bfb9bf2ca7a0557ed1b8f0cf0396536\\transformed\\navx-frc-cpp-2023.0.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\7fb5174f6d31717faeedad2992b9bac6\\transformed\\wpilibc-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\ab85d30c2c70dbbb389a59f5f59ca841\\transformed\\ntcore-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d70fa49de9720a391a3e6808ab99c0c9\\transformed\\hal-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2c304b5a420d50b164eae0922f184457\\transformed\\wpimath-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a7bc9ad056f56a1aaca562316a5f5cc1\\transformed\\wpinet-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\5a416fffbf08810afdc336738070be95\\transformed\\wpiutil-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\355e8e3b3d3893789cfdc671987ca2ff\\transformed\\netcomm-2023.3.0-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\b64b4185a5c2ec4ab51c31afaec4d6a8\\transformed\\chipobject-2023.3.0-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\c94b174a8ff525c97be46d6f5269ca89\\transformed\\visa-2023.3.0-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a82713054d18d1cfecbbf58d9766f79d\\transformed\\cameraserver-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\70a9de2f3ecb557cdabaa085f1d134f8\\transformed\\cscore-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d066ef66f29b4b33df0070a1f192d74a\\transformed\\apriltag-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\8ad7f433c3220a938f5e739b547fd881\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+          "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\include\\"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-Og",
+          "-g"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  },
+  {
+    "name": "linuxathena",
+    "architecture": "arm-v7",
+    "operatingSystem": "linux",
+    "flavor": "default",
+    "buildType": "release",
+    "cppPath": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-g++.exe",
+    "cPath": "C:\\Users\\Public\\wpilib\\2023\\roborio\\bin\\arm-frc2023-linux-gnueabi-gcc.exe",
+    "msvc": false,
+    "gcc": true,
+    "systemCppMacros": [],
+    "systemCppArgs": [],
+    "systemCMacros": [],
+    "systemCArgs": [],
+    "allLibFiles": [
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\1b8bdf6ea1dc11a8b6348471cc492b82\\transformed\\wpilibNewCommands-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\41fd05a97c4cfaf3b678b696d12e2945\\transformed\\REVLib-cpp-2023.1.2-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2acbb074a4163729453e72a55376fd88\\transformed\\REVLib-driver-2023.1.2-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\6bfb9bf2ca7a0557ed1b8f0cf0396536\\transformed\\navx-frc-cpp-2023.0.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\7fb5174f6d31717faeedad2992b9bac6\\transformed\\wpilibc-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\ab85d30c2c70dbbb389a59f5f59ca841\\transformed\\ntcore-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d70fa49de9720a391a3e6808ab99c0c9\\transformed\\hal-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2c304b5a420d50b164eae0922f184457\\transformed\\wpimath-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a7bc9ad056f56a1aaca562316a5f5cc1\\transformed\\wpinet-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\5a416fffbf08810afdc336738070be95\\transformed\\wpiutil-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\355e8e3b3d3893789cfdc671987ca2ff\\transformed\\netcomm-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\b64b4185a5c2ec4ab51c31afaec4d6a8\\transformed\\chipobject-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\c94b174a8ff525c97be46d6f5269ca89\\transformed\\visa-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a82713054d18d1cfecbbf58d9766f79d\\transformed\\cameraserver-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\70a9de2f3ecb557cdabaa085f1d134f8\\transformed\\cscore-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d066ef66f29b4b33df0070a1f192d74a\\transformed\\apriltag-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\8ad7f433c3220a938f5e739b547fd881\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+      "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\include\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\ab721b5d939a34ca4b148e880f7f2467\\transformed\\wpilibNewCommands-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\93a0b2c734996e0a65925ee200e0017e\\transformed\\navx-frc-cpp-2023.0.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\759478416c533deb7f69f1acedb46945\\transformed\\wpilibc-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\fba89f9d7ba8ac20b80d6889c8e56c92\\transformed\\ntcore-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\3fb996f6012495621078562b2fde3be1\\transformed\\hal-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\138a9f1c357699cd0bc5ab85d020c735\\transformed\\wpimath-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\fd9668a25ca06311ff86fdb08489b7d4\\transformed\\wpinet-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\8a822d61d079a1acf6afb5d663be4653\\transformed\\wpiutil-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\e0501ac188f946652d6fb02181aa106a\\transformed\\cameraserver-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\698c9c0bd553743e141c8b55cc4b5081\\transformed\\cscore-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\0400bb83c2212ebca3b1740fceea8bf5\\transformed\\apriltag-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2bf1f4eb73f3cd75916d855ead91d809\\transformed\\opencv-cpp-4.6.0-4-sources\\"
+    ],
+    "allLibSources": [
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\ab721b5d939a34ca4b148e880f7f2467\\transformed\\wpilibNewCommands-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\93a0b2c734996e0a65925ee200e0017e\\transformed\\navx-frc-cpp-2023.0.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\759478416c533deb7f69f1acedb46945\\transformed\\wpilibc-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\fba89f9d7ba8ac20b80d6889c8e56c92\\transformed\\ntcore-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\3fb996f6012495621078562b2fde3be1\\transformed\\hal-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\138a9f1c357699cd0bc5ab85d020c735\\transformed\\wpimath-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\fd9668a25ca06311ff86fdb08489b7d4\\transformed\\wpinet-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\8a822d61d079a1acf6afb5d663be4653\\transformed\\wpiutil-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\e0501ac188f946652d6fb02181aa106a\\transformed\\cameraserver-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\698c9c0bd553743e141c8b55cc4b5081\\transformed\\cscore-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\0400bb83c2212ebca3b1740fceea8bf5\\transformed\\apriltag-cpp-2023.4.3-sources\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2bf1f4eb73f3cd75916d855ead91d809\\transformed\\opencv-cpp-4.6.0-4-sources\\"
+    ],
+    "allLibHeaders": [
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\1b8bdf6ea1dc11a8b6348471cc492b82\\transformed\\wpilibNewCommands-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\41fd05a97c4cfaf3b678b696d12e2945\\transformed\\REVLib-cpp-2023.1.2-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2acbb074a4163729453e72a55376fd88\\transformed\\REVLib-driver-2023.1.2-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\6bfb9bf2ca7a0557ed1b8f0cf0396536\\transformed\\navx-frc-cpp-2023.0.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\7fb5174f6d31717faeedad2992b9bac6\\transformed\\wpilibc-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\ab85d30c2c70dbbb389a59f5f59ca841\\transformed\\ntcore-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d70fa49de9720a391a3e6808ab99c0c9\\transformed\\hal-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2c304b5a420d50b164eae0922f184457\\transformed\\wpimath-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a7bc9ad056f56a1aaca562316a5f5cc1\\transformed\\wpinet-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\5a416fffbf08810afdc336738070be95\\transformed\\wpiutil-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\355e8e3b3d3893789cfdc671987ca2ff\\transformed\\netcomm-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\b64b4185a5c2ec4ab51c31afaec4d6a8\\transformed\\chipobject-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\c94b174a8ff525c97be46d6f5269ca89\\transformed\\visa-2023.3.0-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a82713054d18d1cfecbbf58d9766f79d\\transformed\\cameraserver-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\70a9de2f3ecb557cdabaa085f1d134f8\\transformed\\cscore-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d066ef66f29b4b33df0070a1f192d74a\\transformed\\apriltag-cpp-2023.4.3-headers\\",
+      "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\8ad7f433c3220a938f5e739b547fd881\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+      "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\include\\"
+    ],
+    "binaries": [
+      {
+        "componentName": "frcUserProgram",
+        "sourceSets": [
+          {
+            "source": {
+              "srcDirs": [
+                "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\cpp\\"
+              ],
+              "includes": [
+                "**/*.cpp",
+                "**/*.cc"
+              ],
+              "excludes": []
+            },
+            "exportedHeaders": {
+              "srcDirs": [
+                "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\include\\"
+              ],
+              "includes": [],
+              "excludes": []
+            },
+            "cpp": true,
+            "args": [
+              "-Wall",
+              "-Wextra",
+              "-std=c++20",
+              "-Wformat=2",
+              "-pedantic",
+              "-Wno-psabi",
+              "-Wno-unused-parameter",
+              "-Wno-error=deprecated-declarations",
+              "-fPIC",
+              "-pthread",
+              "-Wno-error=deprecated-enum-enum-conversion",
+              "-O2"
+            ],
+            "macros": []
+          }
+        ],
+        "libHeaders": [
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\1b8bdf6ea1dc11a8b6348471cc492b82\\transformed\\wpilibNewCommands-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\41fd05a97c4cfaf3b678b696d12e2945\\transformed\\REVLib-cpp-2023.1.2-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2acbb074a4163729453e72a55376fd88\\transformed\\REVLib-driver-2023.1.2-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\6bfb9bf2ca7a0557ed1b8f0cf0396536\\transformed\\navx-frc-cpp-2023.0.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\7fb5174f6d31717faeedad2992b9bac6\\transformed\\wpilibc-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\ab85d30c2c70dbbb389a59f5f59ca841\\transformed\\ntcore-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d70fa49de9720a391a3e6808ab99c0c9\\transformed\\hal-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\2c304b5a420d50b164eae0922f184457\\transformed\\wpimath-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a7bc9ad056f56a1aaca562316a5f5cc1\\transformed\\wpinet-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\5a416fffbf08810afdc336738070be95\\transformed\\wpiutil-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\355e8e3b3d3893789cfdc671987ca2ff\\transformed\\netcomm-2023.3.0-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\b64b4185a5c2ec4ab51c31afaec4d6a8\\transformed\\chipobject-2023.3.0-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\c94b174a8ff525c97be46d6f5269ca89\\transformed\\visa-2023.3.0-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\a82713054d18d1cfecbbf58d9766f79d\\transformed\\cameraserver-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\70a9de2f3ecb557cdabaa085f1d134f8\\transformed\\cscore-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\d066ef66f29b4b33df0070a1f192d74a\\transformed\\apriltag-cpp-2023.4.3-headers\\",
+          "C:\\Users\\manya\\.gradle\\caches\\transforms-3\\8ad7f433c3220a938f5e739b547fd881\\transformed\\opencv-cpp-4.6.0-4-headers\\",
+          "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\include\\"
+        ],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "sourceBinaries": [
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\cpp\\"
+          ],
+          "includes": [
+            "**/*.cpp",
+            "**/*.cc"
+          ],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      },
+      {
+        "source": {
+          "srcDirs": [
+            "C:\\Users\\manya\\Downloads\\FRC-6800-2023-code-everybot-NOMotionM\\FRC-6800-2023-code-everybot-NOMotionM\\src\\main\\include\\"
+          ],
+          "includes": [],
+          "excludes": []
+        },
+        "componentName": "frcUserProgram",
+        "cpp": true,
+        "args": [
+          "-Wall",
+          "-Wextra",
+          "-std=c++20",
+          "-Wformat=2",
+          "-pedantic",
+          "-Wno-psabi",
+          "-Wno-unused-parameter",
+          "-Wno-error=deprecated-declarations",
+          "-fPIC",
+          "-pthread",
+          "-Wno-error=deprecated-enum-enum-conversion",
+          "-O2"
+        ],
+        "macros": [],
+        "sharedLibrary": false,
+        "executable": true
+      }
+    ],
+    "nameBinaryMap": {
+      "frcUserProgram": 0
+    }
+  }
+]
